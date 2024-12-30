@@ -1,0 +1,17 @@
+Rolls for 2d12, NOT counting critical hits separately:
+_________________________________________________________________________
+|  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |  10 |  11 |  12 |
+|_____|_____|_____|_____|_____|_____|_____|_____|_____|_____|_____|_____|
+| 105 | 105 | 100 |  87 | 114 | 119 | 107 |  96 |  79 |  95 |  93 | 100 |
+|_____|_____|_____|_____|_____|_____|_____|_____|_____|_____|_____|_____|
+
+
+
+
+Chi-Squared test on this d12:
+For 11 degrees of freedom and a p value of 0.05, the critical value is 19.675.
+
+
+The calculated Chi-Squared Value is 13.56
+
+Since the calculated Chi-Squared value is less than the critical value, it can be said with confidence that this accurately simulates a d12.
